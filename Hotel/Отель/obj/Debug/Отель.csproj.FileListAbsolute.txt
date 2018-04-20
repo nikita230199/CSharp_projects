@@ -1,0 +1,94 @@
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\bin\Debug\Отель.exe.config
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\bin\Debug\Отель.exe
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\bin\Debug\Отель.pdb
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.Form1.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.Form2.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.Properties.Resources.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.Авторизация.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.csproj.GenerateResource.Cache
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.exe
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.pdb
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\HotelDatabase\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\bin\Debug\Отель.exe.config
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.exe
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.pdb
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.Form1.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.Form2.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.NewFile.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.Properties.Resources.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.Авторизация.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\obj\Debug\Отель.ListFiles.resources
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\bin\Debug\Отель.exe
+D:\_ОС Windows\Курсовая работа по ОС\Примеры\Отель\Отель\bin\Debug\Отель.pdb
+C:\Users\Sergey\Desktop\Отель\Отель\bin\Debug\Отель.exe.config
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.exe
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.pdb
+C:\Users\Sergey\Desktop\Отель\Отель\bin\Debug\Отель.exe
+C:\Users\Sergey\Desktop\Отель\Отель\bin\Debug\Отель.pdb
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.Form1.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.ListFiles.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.NewFile.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.Авторизация.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.FormAdd.resources
+C:\Users\Sergey\Desktop\Отель\Отель\obj\Debug\Отель.FormEdit.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\bin\Debug\Отель.exe.config
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.exe
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.pdb
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.Form1.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.FormAdd.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.FormEdit.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.ListFiles.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.NewFile.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.Properties.Resources.resources
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\bin\Debug\Отель.exe
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\bin\Debug\Отель.pdb
+C:\Users\Sergey\Desktop\_Мой проект Отель\Отель\obj\Debug\Отель.Режим.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\bin\Debug\Отель.exe.config
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\bin\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\bin\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.Form1.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.FormAdd.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.FormEdit.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.ListFiles.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.NewFile.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.Properties.Resources.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.Режим.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\bin\Debug\Отель.exe.config
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\bin\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\bin\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.Form1.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.FormAdd.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.FormEdit.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.ListFiles.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.NewFile.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.Properties.Resources.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.Режим.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов — копия\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\bin\Debug\Отель.exe.config
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\bin\Debug\Отель.exe
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\bin\Debug\Отель.pdb
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.csprojResolveAssemblyReference.cache
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.Form1.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.FormAdd.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.FormEdit.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.ListFiles.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.NewFile.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.Properties.Resources.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.Режим.resources
+D:\_C#\Т4.Курсовые работы\_Курсовая работа по C# (ОБРАЗЕЦ-2 курс)\_Отель мой - ОБРАЗЕЦ для студентов. Версия 4.1\Отель\obj\Debug\Отель.csproj.GenerateResource.Cache

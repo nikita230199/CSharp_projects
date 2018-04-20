@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<ArrayOfClientClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientClass>
+    <Reserv>6</Reserv>
+    <Room>666</Room>
+    <Surname>Бабакина</Surname>
+    <Name>Вера</Name>
+    <CheckInDate>2018-02-10T00:00:00</CheckInDate>
+    <CheckOutDate>2018-02-25T00:00:00</CheckOutDate>
+    <Telefon>+7 (555) 666-4441</Telefon>
+    <VIP>false</VIP>
+    <NonGrata>false</NonGrata>
+  </ClientClass>
+  <ClientClass>
+    <Reserv>1</Reserv>
+    <Room>251</Room>
+    <Surname>Иванов</Surname>
+    <Name>Петр</Name>
+    <CheckInDate>2018-06-16T00:00:00</CheckInDate>
+    <CheckOutDate>2018-06-26T00:00:00</CheckOutDate>
+    <Telefon>+7 (916) 333-4455</Telefon>
+    <VIP>false</VIP>
+    <NonGrata>false</NonGrata>
+  </ClientClass>
+  <ClientClass>
+    <Reserv>5</Reserv>
+    <Room>251</Room>
+    <Surname>Иванов</Surname>
+    <Name>Максим</Name>
+    <CheckInDate>2018-02-07T00:00:00</CheckInDate>
+    <CheckOutDate>2018-02-11T00:00:00</CheckOutDate>
+    <Telefon>+7 (916) 999-8877</Telefon>
+    <VIP>true</VIP>
+    <NonGrata>false</NonGrata>
+  </ClientClass>
+  <ClientClass>
+    <Reserv>3</Reserv>
+    <Room>251</Room>
+    <Surname>Козлов</Surname>
+    <Name>Буян</Name>
+    <CheckInDate>2017-06-06T00:00:00</CheckInDate>
+    <CheckOutDate>2017-06-16T00:00:00</CheckOutDate>
+    <Telefon>+7 (916) 555-4455</Telefon>
+    <VIP>false</VIP>
+    <NonGrata>true</NonGrata>
+  </ClientClass>
+  <ClientClass>
+    <Reserv>4</Reserv>
+    <Room>111</Room>
+    <Surname>Михеев</Surname>
+    <Name>Сергей</Name>
+    <CheckInDate>2018-02-11T00:00:00</CheckInDate>
+    <CheckOutDate>2018-02-20T00:00:00</CheckOutDate>
+    <Telefon>+7 (916) 332-5678</Telefon>
+    <VIP>true</VIP>
+    <NonGrata>false</NonGrata>
+  </ClientClass>
+  <ClientClass>
+    <Reserv>5</Reserv>
+    <Room>234</Room>
+    <Surname>Рогозин</Surname>
+    <Name>Дмитрий</Name>
+    <CheckInDate>2018-02-11T00:00:00</CheckInDate>
+    <CheckOutDate>2018-02-20T00:00:00</CheckOutDate>
+    <Telefon>+7 (985) 967-3433</Telefon>
+    <VIP>false</VIP>
+    <NonGrata>false</NonGrata>
+  </ClientClass>
+</ArrayOfClientClass>

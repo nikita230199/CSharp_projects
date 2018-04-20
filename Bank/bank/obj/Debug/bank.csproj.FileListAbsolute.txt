@@ -1,0 +1,116 @@
+F:\Study\2 курс\4 семестр\сяп\bank\bank\bin\Debug\bank.exe.config
+F:\Study\2 курс\4 семестр\сяп\bank\bank\bin\Debug\Банки.mdb
+F:\Study\2 курс\4 семестр\сяп\bank\bank\bin\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank\bank\bin\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.AddCustom.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.AddKredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.Kredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.MainForm.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.Properties.Resources.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.VRkred.resources
+F:\Study\2 курс\4 семестр\сяп\bank\bank\obj\Debug\bank.Customers.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\bin\Debug\bank.exe.config
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.AddKredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.Customers.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.Kredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.MainForm.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.Properties.Resources.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.VRkred.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\bin\Debug\Банки.mdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\bin\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\bin\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.Vklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.AddVklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (3)\bank\obj\Debug\bank.VRvklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\bin\Debug\bank.exe.config
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\bin\Debug\Банки.mdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\bin\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\bin\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.AddKredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.AddVklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.Customers.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.Kredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.MainForm.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.Properties.Resources.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.Vklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.VRkred.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.VRvklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — копия\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.exe.config
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\bin\Debug\Банки.mdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.exe
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.pdb
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.AddKredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.AddVklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Customers.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Kredit.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.MainForm.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Properties.Resources.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Vklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.VRkred.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.VRvklad.resources
+F:\Study\2 курс\4 семестр\сяп\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.exe.config
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.exe
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.pdb
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\bin\Debug\Банки.mdb
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.exe
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\bin\Debug\bank.pdb
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.AddKredit.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.AddVklad.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Customers.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Kredit.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.MainForm.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.Vklad.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.VRkred.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.VRvklad.resources
+C:\Users\Анастасия\Desktop\bank — копия (4) — готовые вклады\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\bin\Debug\bank.exe.config
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.exe
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.pdb
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\bin\Debug\Банки.mdb
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\bin\Debug\bank.exe
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\bin\Debug\bank.pdb
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.AddKredit.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.AddVklad.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.Customers.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.Kredit.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.MainForm.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.Vklad.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.VRkred.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.VRvklad.resources
+C:\Users\Анастасия\Desktop\bank последняя версия\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\131982\Desktop\bank последняя версия\bank\bin\Debug\bank.exe.config
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.exe
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.pdb
+C:\Users\131982\Desktop\bank последняя версия\bank\bin\Debug\Банки.mdb
+C:\Users\131982\Desktop\bank последняя версия\bank\bin\Debug\bank.exe
+C:\Users\131982\Desktop\bank последняя версия\bank\bin\Debug\bank.pdb
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.AddKredit.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.AddVklad.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.Customers.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.Kredit.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.MainForm.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.Vklad.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.VRkred.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.VRvklad.resources
+C:\Users\131982\Desktop\bank последняя версия\bank\obj\Debug\bank.csproj.GenerateResource.Cache

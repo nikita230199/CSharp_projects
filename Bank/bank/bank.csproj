@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DCE1FAEF-AEEF-4C0C-8BB8-4D4DA64F53B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bank</RootNamespace>
+    <AssemblyName>bank</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddKredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddKredit.Designer.cs">
+      <DependentUpon>AddKredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVklad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVklad.Designer.cs">
+      <DependentUpon>AddVklad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kredit.Designer.cs">
+      <DependentUpon>Kredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vklad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vklad.Designer.cs">
+      <DependentUpon>Vklad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VRkred.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VRkred.Designer.cs">
+      <DependentUpon>VRkred.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VRvklad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VRvklad.Designer.cs">
+      <DependentUpon>VRvklad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="БанкиDataSet.cs">
+      <DependentUpon>БанкиDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="БанкиDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>БанкиDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddKredit.resx">
+      <DependentUpon>AddKredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVklad.resx">
+      <DependentUpon>AddVklad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kredit.resx">
+      <DependentUpon>Kredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vklad.resx">
+      <DependentUpon>Vklad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VRkred.resx">
+      <DependentUpon>VRkred.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VRvklad.resx">
+      <DependentUpon>VRvklad.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="БанкиDataSet.xsc">
+      <DependentUpon>БанкиDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="БанкиDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>БанкиDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="БанкиDataSet.xss">
+      <DependentUpon>БанкиDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Кредиты.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\вклады.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Клиентские счета.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Кредиты1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\отчет банка.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Платежи и переводы.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\редактировать.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Справка.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Справка2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photos0-800x600.jpeg" />
+    <None Include="Resources\photos0-800x6001.jpeg" />
+    <Content Include="Банки.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
