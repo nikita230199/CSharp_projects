@@ -1,0 +1,61 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Interop.MediaPlayer.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Interop.WMLSS.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Interop.WMPDXMLib.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Interop.WMPLauncher.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\Interop.WMLSS.dll
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\Interop.WMPLib.dll
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\153381\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.MediaPlayer.dll
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMLSS.dll
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPDXMLib.dll
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPLauncher.dll
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPLib.dll
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\_C#\90. Ввод-вывод\Задачи\Интернет\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMLSS.dll
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Nikita\Downloads\Чтение из Интернет (радиостанции)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
