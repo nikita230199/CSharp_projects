@@ -1,0 +1,17 @@
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\TreeViewЦиклыОтбор.Form1.resources
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\TreeViewЦиклыОтбор.Properties.Resources.resources
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\TreeViewЦиклыОтбор.csproj.GenerateResource.Cache
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\bin\Debug\TreeViewЦиклыОтбор.exe
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\bin\Debug\TreeViewЦиклыОтбор.pdb
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\TreeViewЦиклыОтбор.exe
+C:\Documents and Settings\гор\Рабочий стол\10-2. TreeView+Циклы+Отбор+ДинамForeach\obj\Debug\TreeViewЦиклыОтбор.pdb
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\bin\Debug\TreeViewЦиклыОтбор.exe
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\bin\Debug\TreeViewЦиклыОтбор.pdb
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.Form1.resources
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.Properties.Resources.resources
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.csproj.GenerateResource.cache
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.exe
+C:\Users\Nikita\Documents\GitHub\CSharp_projects\TreeView+Циклы+Отбор+ДинамForeach+Where\obj\Debug\TreeViewЦиклыОтбор.pdb
